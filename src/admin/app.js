@@ -1,3 +1,4 @@
+// @ts-ignore
 import logo from './extensions/logo.png';
 
 const config = {
@@ -12,6 +13,7 @@ const config = {
   },
   translations:{
     en:{
+      "app.head.title" : "FireFist",
       "app.components.LeftMenu.navbrand.workplace": "panel",
       "Settings.profile.form.section.experience.interfaceLanguageHelp": "Preference changes will apply only to you. More information is available.",
       "admin.pages.MarketPlacePage.plugin.tooltip.madeByStrapi": "Made by FireFist",
